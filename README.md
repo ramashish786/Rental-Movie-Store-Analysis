@@ -1,0 +1,1 @@
+![alt text](top_rentals.jpg) ![alt text](actor_analysis.jpg) ![alt text](customer_insights.jpg) ![alt text](film_performance_analysis.jpg) ![alt text](geographic_analysis.jpg) ![alt text](revenue_examination.jpg)
